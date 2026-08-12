@@ -1,0 +1,12 @@
+VCD info: dumpfile electronic_voting_machine.vcd opened for output.
+
+-----------------------------------------
+        FINAL VOTING RESULTS
+-----------------------------------------
+Candidate 1 Votes =   3
+Candidate 2 Votes =   2
+Candidate 3 Votes =   4
+Candidate 4 Votes =   1
+-----------------------------------------
+electronic_voting_machine_tb.v:...
+$finish called at ...
